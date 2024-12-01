@@ -1,3 +1,3 @@
 # odin-recipes
 
-This is the first projectduring my course. Here I practice to use basic HTML and CSS
+This is the first project during my course. Here I practice to use basic HTML and CSS
