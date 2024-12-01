@@ -1,0 +1,19 @@
+* {
+  font-family: 'Courier New', Courier, monospace;
+  background-color: black;
+  color: rgb(17, 175, 17);
+}
+
+.title {
+  text-align: center;
+}
+
+ul li {
+  font-size: 20px;
+  padding: 5px;
+  margin-left: 30px;
+}
+
+a {
+  font-weight: bold;
+}
